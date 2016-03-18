@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+*.pyo
+.DS_Store
+*~
+/MANIFEST
+/.idea
+/courses_logger.log
+/students_logger.log
+/pybursa/gunicorn.conf.py
